@@ -32,5 +32,20 @@ The concept prototype and design exploration for Disciple-U can be viewed in the
 You can download the project overview presentation here:
 [Disciple-U Concept Presentation (Canva)](https://www.canva.com/design/DAHFEgeoGZg/CxmhutuP67MjJtPe95yX6Q/edit?utm_content=DAHFEgeoGZg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+## Screenshots
+
+### Seeker Onboarding
+![Seeker Onboarding](seeker-onboarding.png)
+
+### Seeker Journey
+![Seeker Journey](seeker-journey.png)
+
+### Mentor Dashboard
+![Mentor Dashboard](mentor-dashboard.png)
+
+### Mentorship Flow
+![Mentorship Flow](mentorship-flow.png)
+
+
 ## Note
 This repository highlights **product thinking, UX design, and solution development** rather than production code.
