@@ -29,7 +29,8 @@ The concept prototype and design exploration for Disciple-U can be viewed in the
 [Disciple-U Prototype – Figma Design](https://www.figma.com/design/ALZ4o53sjwraAKBEt3AaAV/Team-1?node-id=12-2&t=i4NvnaRuortXqya6-1)
 
 ## Presentation
-A trimmed version of the presentation deck is included in this repository to provide an overview of the concept and vision behind the platform.
+You can download the project overview presentation here:
+[Disciple-U Concept Presentation (Canva)](https://www.canva.com/design/DAHFEgeoGZg/CxmhutuP67MjJtPe95yX6Q/edit?utm_content=DAHFEgeoGZg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Note
 This repository highlights **product thinking, UX design, and solution development** rather than production code.
